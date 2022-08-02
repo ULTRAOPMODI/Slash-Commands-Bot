@@ -2,11 +2,12 @@
 <p>Hello, Guys Today I make Discord Bot Project. Its Use In Moderate Your Server Basically</p>
 <h3>Guide</h3>
 <p>First Click On The Link In Below Then You Go to A page So, that Time You Wait for Loading. After The Page loaded Completely Then Click On <b>Fork Button</b> Then Waiting Again And Go To You Shell Then Do That:</p>
-<h3 align="left">Connect with me:</h3>
 
 ```bash
 npm install
 ```
+
+<h3 align="left">Connect with me:</h3>
 <p>You Can All Watch Video Guide <b><a href="#">Video</a></b>
 <p align="left">
 <a href="https://www.youtube.com/c/https://youtube.com/channel/ucunhta9i0fj61u6qdqkscqq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/ucunhta9i0fj61u6qdqkscqq" height="30" width="40" /></a>

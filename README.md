@@ -17,3 +17,9 @@ npm install
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+
+### If Error:
+Then Report on my Discord Server: **[Discord](https://dsc.gg/upm)**
+
+also,
+Email Me: **tectonium2008git@gmail.com**

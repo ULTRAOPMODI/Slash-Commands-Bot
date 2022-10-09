@@ -3,7 +3,7 @@
 <h3>Guide</h3>
 <p>First Click On The Link In Below Then You Go to A page So, that Time You Wait for Loading. After The Page loaded Completely Then Click On <b>Fork Button</b> Then Waiting Again And Go To You Shell Then Do That:</p>
 
-**[Click Here](https://replit.com/@ULTRA-OPOP/Basic-Moderation-Bot?v=1)**
+[![Deploy on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/official/replit.svg)](https://replit.com/@ULTRA-OPOP/Basic-Moderation-Bot?v=1)
 
 ```bash
 npm install
